@@ -38,7 +38,7 @@ const char * help = "\n1. Specify stechiometric reaction equation.\n"
 "recognize two compounds with the same stechiometric "
 "formula as the same or different reactants and "
 "always treats them as different. For inst., if you enter "
-"smth. like  \"NaOH+NaOH=NaOH\", the program will treat all the three "
+"smth. like  \"NaOH+NaOH=2NaOH\", the program will treat all the three "
 "tokens as different chemical substances and calculate them separately\n"
 ;
 
